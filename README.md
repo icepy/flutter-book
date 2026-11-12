@@ -6,9 +6,7 @@
 
 ## 作者介绍
 
-[icepy](https://github.com/icepy)，可访问：[https://icepy.me/](https://icepy.me/) 阅读。
-
-[知乎专栏：《我们可以学习更多》](https://zhuanlan.zhihu.com/fed-talk) ，程序员的前端专栏；
+[icepy](https://github.com/icepy)，
 
 ## 你会学到什么
 
